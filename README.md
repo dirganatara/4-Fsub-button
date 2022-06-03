@@ -1,7 +1,8 @@
 # File.-Sharing
-Repo buat bokep 
 
-<img src="https://telegra.ph/file/2917f8f281acb8de7d5a7.jpg">
+<p align="center">
+  <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">
+</p>
 
 
 ### Setup Join 4 Ch ini 
