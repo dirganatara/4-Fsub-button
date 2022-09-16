@@ -20,17 +20,17 @@ API_HASH = os.environ.get("API_HASH", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "2071119515"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1437972107"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "@UnrealPiggy")
+OWNER = os.environ.get("OWNER", "@Dirganheree")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "Lunatic0de")
-GROUP = os.environ.get("GROUP", "SharingUserbot")
+CHANNEL = os.environ.get("CHANNEL", "Dirganheree")
+GROUP = os.environ.get("GROUP", "scattersuport")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
