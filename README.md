@@ -1,7 +1,7 @@
 # File.-Sharing
 
 <p align="center">
-  <img src="https://telegra.ph/file/198cdef858f7455c6cd64.jpg">
+  <img src="https://telegra.ph/file/775bd03dfdf38c8820614.jpg">
 </p>
 
 
